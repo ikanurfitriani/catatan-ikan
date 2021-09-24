@@ -5,23 +5,23 @@ description: In this post I will tell you how to make klepon
 ---
 <!--StartFragment-->
 
-#### Material : 
+#### Material :
 
-* ##### 325 g glutinous rice flour 
-* ##### 300 ml of warm water 
-* ##### 100 g brown sugar small slices 
-* ##### Cut into 4 pieces pandan leaf 
-* ##### 25 g starch 
-* ##### 1/2 coconut, trench 
+* ##### 325 g glutinous rice flour
+* ##### 300 ml of warm water
+* ##### 100 g brown sugar small slices
+* ##### Cut into 4 pieces pandan leaf
+* ##### 25 g starch
+* ##### 1/2 coconut, trench
 * ##### 1/2 teaspoon of salt
 
-#### Tool : 
+#### Tool :
 
-* ##### Tea spoon 
-* ##### Pan 
-* ##### Stove 
-* ##### Container/Basin 
-* ##### Plate 
+* ##### Tea spoon
+* ##### Pan
+* ##### Stove
+* ##### Container/Basin
+* ##### Plate
 * ##### Cutting Board
 
 #### Step/the ways :
@@ -32,4 +32,4 @@ description: In this post I will tell you how to make klepon
 4. Fourth,Immediately roll the sphere into the sphere of grated coconut steammed until coconut is covered and is not attached to one another and put in plate.
 5. Finally,klepon ready to be served.
 
-   ![](/img/klepon.jpg "Klepon")
+   ![Klepon](/img/klepon.jpg "Klepon")
