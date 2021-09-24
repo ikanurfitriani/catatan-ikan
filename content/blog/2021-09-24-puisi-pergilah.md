@@ -1,5 +1,5 @@
 ---
-title: "Puisi: Pergilah"
+title: "Puisi: Pergilah by Ika Nurfitriani"
 date: 2021-09-24T14:12:39.489Z
 description: Puisi yang diciptakan oleh saya sendiri.
 ---
