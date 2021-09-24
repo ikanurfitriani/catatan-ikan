@@ -1,5 +1,5 @@
 ---
-title: "Kenangan Oleh: Ika Nurfitriani"
+title: "Puisi: Kenangan by Ika Nurfitriani"
 date: 2021-09-24T14:18:35.730Z
 description: Puisi ini dibuat sendiri oleh saya
 ---
